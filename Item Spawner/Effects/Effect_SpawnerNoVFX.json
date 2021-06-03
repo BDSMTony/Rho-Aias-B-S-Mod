@@ -1,0 +1,9 @@
+{
+  "$type": "ThunderRoad.EffectData, Assembly-CSharp",
+  "id": "SpawnerNoVFX",
+  "saveFolder": "Bas",
+  "version": 0,
+  "groupId": "Lightning",
+  "volumeDb": 0.0,
+  "modules": []
+}
